@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <string name="set_toast">Set Message</string>
+    <string name="lbl_type_message">Type message for toast</string>
+</resources>
